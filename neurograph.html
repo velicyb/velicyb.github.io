@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <body>
+    A link connects from a link to a link.<br>
+    A link has a base-64 name made up of the characters [a-z], [A-Z], [0-9], "-", and "/".<br>
+    A link is written "({from} {to})" such as "(a b)".<br>
+    Thus for example you can have link "c" defined as "(a b)". "c = (a b)".<br>
+    A link can point from and/or to itself, thus "a = (a a)" is allowed, as is "b = (b c)", and "c = (d c)".<br>
+    <br>
+    A weighted link can be written "[weight ({from} {to})]", such as "[3 (a b)]".<br>
+    A link weight is a natural number, a whole number equal to or above zero.<br>
+    Link weights represent proportions of weight moving from the {from} end of the link to the {to} end of the link.<br>
+    The total weight moving from a link used as the {from} end in other links should be thought of as 100%.<br>
+    Such that if given weighted links "[1 (a b)]" and "[1 (a c)]", "a" should be thought of as "50% to b, 50% to c".<br>
+    Treated weights as proportionate is important to keeping the total weight entering a circuit of links constant.<br>
+    Keeping the total weight within link circuits constant enables various cryptoeconomic applications, chiefly fair reputation tracking.<br>
+    <br>
+    A link circuit is a set of links, preferably displayed in a weighted random order for readability and to respect the meaning behind the weights.<br>
+    Given a link circuit, weight can be propagated proportionately by making a weighted random selection of a link, then moving a unit of weight from the link it points {from} to the link it points {to}.<br>
+    Nondeterministic weight propagation is critical to both fairness and scalability.<br>
+    <br>
+    For a challenge, try building basic logic gates using Neurographic link circuits.<br>
+    Source links that have infinite weight are allowed but try to avoid using large weights for other links.<br>
+    <br>
+    Neurograph was originally a thought experiment about decentralized credit.<br>
+    It later evolved into a general purpose data format (based on the logical links described above) and a methodology for developing a securely sharable decentralized database with personalized custom data views and replication patterns.<br>
+    I plan to continue developing Neurograph as a backend to various Open Metaverse dapps / decentralized applications.<br>
+    In the future I plan to include interactive examples of Neurograph links and other logic on this page.<br>
+  </body>
+</html>
