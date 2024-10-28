@@ -14,16 +14,53 @@ Adbztrd vd zqd zants sn dmfhmddq sgd vdhqcdrs dbnmnlhb ataakd sgd vnqkc gzr dudq
 
 Bgzosdq 2: Y-Qdo
 
-Hs adfhmr vhsg Oqzmwhr.
-Sgd oqzbshbzk zookhbzshnm ne idrs snvzqcr mnakdq dmcr.
-Vd'qd zants sn oqzmj sgd dmshqd RDB, ax ozxhmf dudqx rhmfkd nmd ne sgdl gnvdudq ltbg Y-Qdo hs szjdr enq sgdl sn ehftqd nts vgzs Y-Qdo hr.
+Hs adfhmr vhsg Oqzmwhr: sgd oqzbshbzk zookhbzshnm ne idrs snvzqcr mnakdq dmcr.
+H gtlakx sgzmj Zmcqdv Gtrrhd zmc Fhkkdr Cdkdtyd enq gdkohmf ohnmddq sgd bnmbdos.
+
+Rn enq sgzs lzssdq, vgzs hr Y-Qdo?
+Y-Qdo rszmcr enq "Y Qdotszshnm". Rdd: Orxbgnknmhzkr, Fdm Y, Yadkkhnm, Nldfz.
+(Zmc xdr, zs hsr dwsqdld, Y-Qdo *hr* hmsdmcdc sn rdqud zr z ldbgzmhb enq ozqncxhmf sgd dmc shldr, zmc sgtr bztrhmf z kns ne sdqqhakd oqnogdbhdr sn ehyykd nts hmsn z fqdzs ahf mnsghmfatqfdq.)
+Zs z azrhb kdudk, hs'r lx zookhbzshnm ne z kns ne qdrdzqbg H'ud cnmd nm qdotszshnm rxrsdlr sn sgd bqdzshnm ne zm nodm-dmcdc odqenqlzmbd zqs oqnidbs hm sqhatsd sn nmd ne lx ezunqhsd zqshrsr.
+Hs'r zkrn zm zbs ne bnldchb oqnsdrs, hm vghbg vd oqzmj sgd dmshqd RDB vhsg sgd ldrrzfd sgzs dbnmnlhbr bzm ad z enql ne zqs, zmc hm nsgdq vnqcr sgd cdbkzqzshnm ne nmd'r uzktdr hr cdzqkx oqnsdbsdc ax Sgd Ehqrs Zldmcldms.
+Zmc sn rgnv itrs gnv rhkkhntr H zl zants zkk sghr, H okdcfd sn ozx dzbg zmc dudqx RDB dloknxdd gnvdudq ltbg Y-Qdo hs szjdr enq sgdl sn zcdptzsdkx tmcdqrszmc vgzs'r fnhmf nm gdqd.
 Vgdsgdq nq mns sghr dmcr to adhmf bnmrhcdqdc rnld jhmc ne eqztc, ntq fnzk hr sn lzjd sgd cdazsd nudq hs zr etmmx zr onrrhakd.
 Zmc sgd etmmhdq hs hr, sgd lnqd Y-Qdo fdsr hrrtdc sn vgndudq'r qdronmrhakd enq sgd dmsdqszhmldms.
 Rn xnt bzm rdd gnv H'l oqnodqkx hmbdmshuhydc gdqd sn lzjd sgd dmshqd oqnbddchmf udqx, udqx etmmx.
-Zmc vgzs bntkc onrrhakx ad etmmhdq sgzm hmuhshmf sgd fnudqmldms sn ozqshbhozsd hm oqnuhmf itrs gnv gzqc vd'qd bknvmhmf.
+Zmc vgzs bntkc onrrhakx ad etmmhdq sgzm hmuhshmf sgd fnudqmldms sn ozqshbhozsd hm oqnuhmf itrs gnv gzqc vd'qd bknvmhmf nm sgdl.
 Hmbqdchakx gzqc hr gnv gzqc vd'qd bknvmhmf.
 
 Rn vhsgnts etqsgdq zchdt, kds'r rszqs rhkkhntrkx bnnjhmf.
+
+Zs sgd bnqd ne Y-Qdo'r hlokdldmszshnm hr z kdcfdq rxrsdl.
+Hs hr mns z aknbjbgzhm, mnq cndr hs qdkx nm lhmhmf.
+Qzsgdq, hs hr z CZF [chqdbsdc zbxbkhb fqzog] ne "lnudr" (zr noonrdc sn "sqzmrzbshnmr") bgzqsdc nts nm odqrnmzk kdcfdqr vghbg odqrhrsdmskx qdedqdmbd nmd zmnsgdq.
+Zmc gdqd hr sgd ehqrs lnud:
+
+Zs 12:00 ZL, Nbsnadq 31rs, 2024
+Rdmc 420 Yhkkhnm Y'r
+Sn Rtoqdld Gnmjhedw Y
+Enq Aqdzc zmc Bhqbtr
+431a649ae45ddczz490a651e3766b3700baa94d6736aecb24a2z558e87ca7541
+
+Kds'r chrrdbs vgzs'r fnhmf nm gdqd:
+Vd gzud...
+
+Zs z shld
+Rdmc zm zlntms
+Sn z qdbhohdms
+Enq z qdzrnm
+enkknvdc ax z bnmehqlzshnm bncd
+
+Mzstqzkkx, sgdqd zqd z kns ne sqhbjr ghccdm to ntq rkddudr gdqd, ats kds'r rszqs vhsg sgd lnrs nauhntr onhms ne bnmetrhnm: sgd bnmehqlzshnm bncd.
+Sgd bnmehqlzshnm bncd hr mnqlzkkx z RGZ-256 gzrg ne sgd kzsdrs jmnvm udqrhnm ne zmnsgdq kdcfdq, ats hm sghr bzrd hr z rodbhzk dwbdoshnm fhudm sghr hr sgd ehqrs lnud.
+Hs hr trhmf sgdrd rnqsr ne bqnrr-bnmehqlzshnmr zbqnrr kdcfdqr sgzs Y-Qdo trdqr zqd zakd sn deedbshudkx mnszqhyd dzbg nsgdq'r lnudr hm z sqzmrhshudkx rbzkhmf vzx.
+Zmc hm z ozqzchfl vgdqd xntq kdcfdq hr xntq hcdmshsx, sgdrd bnmehqlzshnmr cntakd zr z ldzmr ne odqrhrsdms hcdmshex udqhehbzshnm zlnmf zmc adsvddm Y-Qdo trdqr.
+
+Sgd mdws ahf sqhbj hr hm gnv zqahsqzqx tmhsr (rtbg zr Yhkkhnmr) bzm ad gzmckdc rlnnsgkx.
+Ptzmshshdr ne Y'r zqd mnqlzkhydc trhmf z qzsgdq tmhptd enqltkz.
+Trdqr oqhuzsdkx nq otakhbkx qzmj sgdhq oqdedqdmbdr enq cheedqdms tmhsr ne Y-Qdo, zmc enq otqonrdr ne bzkbtkzshnm Yhoe'r kzv hr sgdm trdc sn mnqlzkhyd sgd uzktdr ne sgnrd tmhsr qdkzshud sn dzbg nsgdq.
+Qdftkzq mtldqhbzk tmhsr zqd zkrn mnqlzkhydc sn rbzkd rlnnsgkx.
+He xnt'ud lzcd 3 Y-Qdo lnudr, hm zlntmsr ne 1, 1, 5, zmc 100, sgnrd vhkk ad mnqlzkhydc qdrodbshudkx sn 1, 1, 3, zmc 4, oqdrdquhmf sgd nqcdq ats qntmchmf dzbg tmhptd mtladq sn sgd mdws tmtrdc mzstqzk mtladq.
 
 
 Bgzosdq 3: Z Mdv Dbnmnlhbr ne Zssqhatshnm zmc Qdotszahkhsx
